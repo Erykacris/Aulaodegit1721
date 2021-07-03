@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637607435829977347
+      ticks: 637609239430000000
     m_Hash: 3649162254
   m_LockFileStatus:
     m_FilePath: C:/Aulaodegit1721/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637607435830166966
+      ticks: 637609239430000000
     m_Hash: 2574129123
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
